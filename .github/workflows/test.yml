@@ -27,7 +27,7 @@ jobs:
 
 
           - platform: ds3622xsp
-            version: 7.0.1-42218
+            version: 7.1.1-42962
 
 
 
